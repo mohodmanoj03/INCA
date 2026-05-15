@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<TeamDeveloperAppUser Version="2">
+
+  <HITEMS>
+    <HITEM HITEM_ID="4e" HITEM_SEG="41e" IsBPEnabled="true" IsBreakpoint="true"/>
+    <HITEM HITEM_ID="3d" HITEM_SEG="48d" IsBPEnabled="true" IsBreakpoint="true"/>
+  </HITEMS>
+
+</TeamDeveloperAppUser>

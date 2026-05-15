@@ -1,0 +1,75 @@
+#----------------------------------------------------------------
+# The new world of INCA.
+#----------------------------------------------------------------
+
+INCA_dev.incaworld =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = TD1VL00148.int.twelve99.com)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = NIDDEV)
+    )
+  )
+
+INCA_uat.incaworld =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = TD1VL00148.int.twelve99.com)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = NIDUAT)
+    )
+  )
+
+INCA_acc.incaworld =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = PD1VL00195.int.twelve99.com)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = NIDACC)
+    )
+  )
+
+INCA_sit.incaworld =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = TD1VL00148.int.twelve99.com)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = NIDSIT)
+    )
+  )
+
+INCA_prd.incaworld =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = PD1VL00195.int.twelve99.com)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = NIDPROD)
+    )
+  )
+
+INCA_SIA.incaworld =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = PD1VL00195.int.twelve99.com)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = NIDSIA)
+    )
+  )
+
+INCA_res.incaworld =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = PD1VL00195.int.twelve99.com)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = NIDRES)
+    )
+  )
+
+INCA_wres.incaworld =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = PD1VL00195.int.twelve99.com)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = NIDWRES)
+    )
+  )
